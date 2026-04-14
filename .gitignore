@@ -1,1 +1,4 @@
 Setups/
+pool/
+*.brs
+*.json
