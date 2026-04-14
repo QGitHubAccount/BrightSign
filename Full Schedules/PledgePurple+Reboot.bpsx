@@ -1,11 +1,11 @@
 {
   "schedulePresentations": {
     "schedulePresentationsById": {
-      "f990af8c-f5cf-4000-a473-0a4f28029000": {
-        "id": "f990af8c-f5cf-4000-a473-0a4f28029000",
+      "8be7f377-672e-4000-a1f3-06ae0d775000": {
+        "id": "8be7f377-672e-4000-a1f3-06ae0d775000",
         "presentationLocator": {
-          "name": "ECUlogoTEST.bpfx",
-          "path": "C:\\Users\\rossq21\\OneDrive - East Carolina University\\Desktop\\BrightSign\\",
+          "name": "RevisedPurplePledge.bpfx",
+          "path": "C:\\Users\\rossq21\\OneDrive - East Carolina University\\Desktop\\BrightSign\\Presentations\\",
           "networkId": 0,
           "location": "Local",
           "assetType": "Project",
@@ -22,8 +22,8 @@
         "recurrenceEndDate": "2100-12-31T23:59:59.999Z",
         "interruption": false
       },
-      "9fc3f564-408c-4000-af65-5669ab197000": {
-        "id": "9fc3f564-408c-4000-af65-5669ab197000",
+      "6137e576-46fb-4000-a5e2-698a4d245000": {
+        "id": "6137e576-46fb-4000-a5e2-698a4d245000",
         "presentationLocator": {
           "name": "1080pReboot.bpfx",
           "path": "C:\\Users\\rossq21\\OneDrive - East Carolina University\\Desktop\\BrightSign\\Presentations\\",
@@ -45,11 +45,11 @@
       }
     },
     "allSchedulePresentations": [
-      "f990af8c-f5cf-4000-a473-0a4f28029000",
-      "9fc3f564-408c-4000-af65-5669ab197000"
+      "8be7f377-672e-4000-a1f3-06ae0d775000",
+      "6137e576-46fb-4000-a5e2-698a4d245000"
     ]
   },
   "modifiedTime": {
-    "lastModifiedTime": "2026-04-14T15:59:53.595Z"
+    "lastModifiedTime": "2026-04-14T16:07:56.337Z"
   }
 }
